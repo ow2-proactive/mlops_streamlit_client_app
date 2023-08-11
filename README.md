@@ -26,7 +26,7 @@ python3 -m pip install -r requirements.txt
 
 ### Run
 ```bash
-streamlit run streamlit_gpt2_client_app.py
+streamlit run streamlit_client_app.py
 ```
 
 ![Animated GIF](https://github.com/ow2-proactive/mlops_streamlit_gpt2_app/blob/34afcdb1d7c0647e7da29c104d8bb7d53d813e86/images/streamlit_client.gif)
