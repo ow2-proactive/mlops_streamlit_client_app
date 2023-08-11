@@ -10,7 +10,7 @@ For more info:
 ### Requirements
 - Activeeon's MLOps Dashboard
 - [GPT2 model from Hugging Face](https://huggingface.co/gpt2)
-- [Stable Diffusion Triton Model](https://github.com/kamalkraj/stable-diffusion-tritonserver)
+- [Stable Diffusion model for NVIDIA Triton](https://github.com/kamalkraj/stable-diffusion-tritonserver)
 
 ### Setup
 Create a Python virtual env and install the project dependencies
